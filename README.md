@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Computer Science Student | 2nd Year**  
+- 🎓 **Computer Science Student | 3rd Year**  
 - 💡 Passionate about **Data Science, AI, and Problem-Solving**  
 - 🛠️ Skilled in **C++, Python, SQL, Data Structures & Algorithms**  
 - 📊 Experienced in **NumPy, Pandas, Matplotlib, Seaborn, Data Analysis, Excel**  
